@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "916714729349",
+    "firebase_url": "https://fitflex-2146b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fitflex-2146b",
+    "storage_bucket": "fitflex-2146b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916714729349:android:2f3b21f078d7ccdb3d9eec",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3ejgeh7OPR6_wjDEjBnjn__26ylIx7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
